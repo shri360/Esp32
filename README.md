@@ -38,4 +38,4 @@ Finally upload graphictest_kbv.ino to test the LCD.
 
 If it doesn't work, double/triple check the wiring. It use many wires, wrong wiring could happen.
 
-NOTE: This 3.5" MCUFriend TFT LCD use 3.3V, it become very very hot when use 5V.
+NOTE: This 3.5" MCUFriend TFT LCD use 3.3V.
